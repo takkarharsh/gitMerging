@@ -1,1 +1,2 @@
 # gitMerging
+commit 1
